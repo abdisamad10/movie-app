@@ -6,6 +6,7 @@ body {
 .movie-app > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
+    padding-bottom: 20px;
 }
 
 .image-container {
